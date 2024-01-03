@@ -11,7 +11,7 @@ Material design components for react, powered by [materializecss](http://materia
 
 ## Install
 ```
-npm install materialize-css@next
+npm install materialize-css-react
 npm install react-materialize
 ```
 
