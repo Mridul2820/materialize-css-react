@@ -1,6 +1,6 @@
 {
-  "name": "react-materialize",
-  "version": "3.10.0",
+  "name": "materialize-css-react",
+  "version": "0.0.1",
   "description": "Material design components for react",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-materialize/react-materialize.git"
+    "url": "https://github.com/Mridul2820/react-materialize-css.git"
   },
   "keywords": [
     "material",
@@ -36,7 +36,7 @@
     "materializecss",
     "react-component"
   ],
-  "author": "Isaiah Peng <issaria@gmail.com>",
+  "author": "Mridul <contact@mridul.tech>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/react-materialize/react-materialize/issues"
@@ -75,15 +75,12 @@
     "babel-jest": "^27.3.1",
     "babel-loader": "^8.1.0",
     "copyfiles": "^2.4.1",
-    "eslint": "^4.19.1",
+    "eslint": "^8.56.0",
     "eslint-config-prettier": "^2.10.0",
-    "eslint-config-standard": "^6.0.0",
-    "eslint-config-standard-react": "^7.0.2",
+    "eslint-config-standard-react": "^13.0.0",
     "eslint-plugin-prettier": "^2.7.0",
-    "eslint-plugin-promise": "^3.8.0",
     "eslint-plugin-react": "^7.19.0",
-    "eslint-plugin-react-hooks": "^2.5.1",
-    "eslint-plugin-standard": "^2.0.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
     "husky": "^0.14.3",
     "jest": "^27.3.1",
     "jest-watch-typeahead": "^1.0.0",
@@ -91,12 +88,12 @@
     "materialize-css": "^1.0.0",
     "mutationobserver-shim": "^0.3.7",
     "prettier": "^1.19.1",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "peerDependencies": {
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "dependencies": {
     "classnames": "^2.2.6"
